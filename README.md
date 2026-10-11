@@ -1,2 +1,2 @@
 # SAP-Basis-Demo
-Documentação SAP Basis - versão demo para demonstração de habilidades
+SAP Basis Documentation - Demo version for skills demonstration.
